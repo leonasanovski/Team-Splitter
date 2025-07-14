@@ -1,0 +1,8 @@
+Suggested columns to add for my splitter:
+- interceptions_overall_ability (how the player reads the game and acts)
+- fouls_committing_rating (how often a player is committing fouls - higher committing rate means it is so usual for his game style)
+- stamina_rating (how much the player is fit to run and be at good condition level during the game)
+- positions_played (it will be bigger if the player is more flexible, and can play on more positions)
+- leadership_score (this is an attribute that represents the degree of how much a player can be a leader)
+
+Mby I can add some chemistry for the things
